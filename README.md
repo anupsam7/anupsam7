@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupsam7
-- 👀 I’m interested in Data Analytics & Machine Learning.
+- 👀 I’m interested in Data Analysis & Machine Learning.
 - 🌱 I’m currently learning Deep Learning & NLP
 - 📫 How to reach me anupsam7@gmail.com
 
